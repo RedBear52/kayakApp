@@ -7,4 +7,8 @@ Plus a clickable link to get more detailed weather info.
 If the conditions do not pass the conditional tests, displays a kayak with a line through it and 
   SOME suggestion of what else you might be interested in doing instead
   
+Eventually would like to add additional functionality/complexity by adding in water levels on certain waterways via gov api (if they extist)
+
+Using HTML, CSS, and Javascript with the initial intention of running it locally and eventually deploying it to the ole world wide web...
+  
   
