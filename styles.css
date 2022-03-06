@@ -11,13 +11,59 @@ h1 {
     box-shadow: 2px 2px 8px 12px cadetblue;
 }
 
+#big_btn {
+    background-color: coral;
+    color:rgb(5, 64, 66);
+    height: 250px;
+    width: 620px;
+    font: monospace, sans-serif;
+    font-size: xxx-large;
+    font-weight: bolder;
+    transform: translate(0, -50px);
+    border: none;
+    border-radius: 8px;
+    box-shadow: 4px 4px 12px 4px cadetblue;
+
+}
+
+#btn_div {
+    box-shadow: none;
+}
+
+
+
 .main {
     position: relative;
     text-align: center;
-    transform: translate(0, 200px);
+    transform: translate(0, 100px);
     font-size: xx-large;
 }
 
 #howdy {
     text-align: center;
+}
+
+.main {
+    box-shadow: none;
+    margin-top: 0px;
+}
+
+div {
+    box-shadow: 2px 2px 8px 12px cadetblue;
+}
+
+#eminence {
+    background-color: rgb(23, 211, 218);
+    padding: .75em;
+
+}
+
+#troy {
+    background-color: aquamarine;
+    padding: .75em;
+}
+
+#ironton {
+    background-color: rgb(23, 211, 218);
+    padding: .75em;
 }

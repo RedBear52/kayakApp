@@ -25,4 +25,8 @@ const fetchWeatherData = async () => {
     } 
 }
 
-fetchWeatherData()
+const button = document.getElementById('big_btn')
+button.addEventListener('click', function() {
+    fetchWeatherData()
+});
+
