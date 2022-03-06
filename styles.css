@@ -1,0 +1,23 @@
+h1 {
+    font-family: monospace, sans-serif;
+    font-weight: bold;
+    font-size: 125px;
+    margin: 0 auto;
+    margin-bottom: 0px;
+    text-align: center;
+    padding: .50em;
+    padding-bottom: none;
+    background-color: aquamarine;
+    box-shadow: 2px 2px 8px 12px cadetblue;
+}
+
+.main {
+    position: relative;
+    text-align: center;
+    transform: translate(0, 200px);
+    font-size: xx-large;
+}
+
+#howdy {
+    text-align: center;
+}
